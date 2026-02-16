@@ -1,0 +1,104 @@
+{
+  "version": 1,
+  "base_track": "嘘みたいなI Love You",
+  "base_artist": "Hikaru Utada",
+  "createdAt": "2026-02-16T20:14:00.996926Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "嘘みたいなI Love You",
+      "artist": "Hikaru Utada",
+      "has_synced": true,
+      "path": "select/01_嘘みたいなI_Love_You_Hikaru_Utada.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "嘘みたいなI Love You",
+      "artist": "宇多田ヒカル",
+      "has_synced": true,
+      "path": "select/02_嘘みたいなI_Love_You_宇多田ヒカル.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "嘘みたいなI Love You",
+      "artist": "宇多田ヒカル",
+      "has_synced": true,
+      "path": "select/03_嘘みたいなI_Love_You_宇多田ヒカル.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "嘘みたいなi Love You",
+      "artist": "宇多田光",
+      "has_synced": true,
+      "path": "select/04_嘘みたいなi_Love_You_宇多田光.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "嘘みたいなI Love You",
+      "artist": "宇多田ヒカル",
+      "has_synced": true,
+      "path": "select/05_嘘みたいなI_Love_You_宇多田ヒカル.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "嘘みたいなI Love You (Remastered 2018)",
+      "artist": "Hikaru Utada",
+      "has_synced": true,
+      "path": "select/06_嘘みたいなI_Love_You_(Remastered_2018)_Hikaru_Utada.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "嘘みたいなI Love You",
+      "artist": "Utada Hikaru",
+      "has_synced": true,
+      "path": "select/07_嘘みたいなI_Love_You_Utada_Hikaru.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "嘘みたいなI Love You",
+      "artist": "宇多田 ヒカル",
+      "has_synced": false,
+      "path": "select/pl_01_嘘みたいなI_Love_You_宇多田_ヒカル.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "嘘みたいなI Love You",
+      "artist": "宇多田 ヒカル",
+      "has_synced": false,
+      "path": "select/pl_02_嘘みたいなI_Love_You_宇多田_ヒカル.txt"
+    },
+    {
+      "id": "petitlyrics_3",
+      "source": "petitlyrics",
+      "title": "嘘みたいな I Love You",
+      "artist": "宇多田 ヒカル",
+      "has_synced": false,
+      "path": "select/pl_03_嘘みたいな_I_Love_You_宇多田_ヒカル.txt"
+    },
+    {
+      "id": "petitlyrics_4",
+      "source": "petitlyrics",
+      "title": "嘘みたいな I Love You",
+      "artist": "宇多田 ヒカル",
+      "has_synced": false,
+      "path": "select/pl_04_嘘みたいな_I_Love_You_宇多田_ヒカル.txt"
+    },
+    {
+      "id": "petitlyrics_5",
+      "source": "petitlyrics",
+      "title": "嘘みたいな I Love You",
+      "artist": "宇多田 ヒカル",
+      "has_synced": false,
+      "path": "select/pl_05_嘘みたいな_I_Love_You_宇多田_ヒカル.txt"
+    }
+  ]
+}
